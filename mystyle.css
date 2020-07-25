@@ -22,7 +22,7 @@ hr{
 
  .startup {
 	background-position: center;
-	background-image: url(image/ibina2.png);
+	background-image: url(ibina2.png);
 	background-size: cover;
 	height: 100%;
 }
@@ -62,7 +62,6 @@ p{
 legend{
 	color: white;
 }
-
 
 
 footer{
